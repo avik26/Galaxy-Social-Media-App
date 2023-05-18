@@ -1,3 +1,3 @@
 # Galaxy-Social-Media-App
 
-<img width="422" alt="image" src="https://github.com/avik26/Galaxy-Social-Media-App/assets/130585622/50fd0ce2-cb80-4e9a-91bd-a957b66d0fcb">
+<img width="454" alt="image" src="https://github.com/avik26/Galaxy-Social-Media-App/assets/130585622/3dc0d2f2-156e-464a-91fd-b9a0a38e958a">
