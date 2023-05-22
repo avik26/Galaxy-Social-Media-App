@@ -14,5 +14,4 @@ export default {
       type: 'string',
     },
   ],
-}
-;
+};
