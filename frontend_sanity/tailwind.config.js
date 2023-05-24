@@ -64,7 +64,7 @@ module.exports = {
           '0%': {
             '-webkit-transform': 'translateZ(0px)',
             transform: 'translateZ(0px)',
-          },
+          }, 
           '100%': {
             '-webkit-transform': 'translateZ(160px)',
             transform: 'translateZ(160px)',
