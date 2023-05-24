@@ -60,7 +60,6 @@ module.exports = {
             transform: 'translateX(0px)',
           },
         },
-
         'slide-fwd': {
           '0%': {
             '-webkit-transform': 'translateZ(0px)',
